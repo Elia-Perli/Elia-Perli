@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elia-Perli, but you on the web you can call me Ape.
+- 👋 Hi, I’m @Elia-Perli. Sometimes on the web I'm known as Ape/Traincopter/Trenicottero.
 
 - 👀 I’m interested in Mathematics, Computer Science, and a little bit of Biology
 - 🌱 I’m currently studying Mathematics at `Università di Pavia`
